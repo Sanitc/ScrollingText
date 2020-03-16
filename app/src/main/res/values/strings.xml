@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Article Title</string>
+    <string name="article_subtitle">Article Subtitle</string>
+    <string name="change_to_article_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Morbi purus ex, iaculis vitae viverra sed, pellentesque nec lorem. In ornare porta molestie.
+        Sed dui nunc, ullamcorper non mollis id, ultrices et orci. Praesent lacinia, dolor sed iaculis volutpat,
+        ex nibh laoreet ex, nec dapibus nibh velit ornare nunc. Nam et odio dolor. Donec venenatis efficitur velit,
+        eu finibus tortor luctus eu. Morbi vel pulvinar magna.
+        Donec vitae tempor mi. Cras luctus libero vitae lobortis tincidunt.
+        Phasellus elit justo, pretium a justo et, consequat semper odio.
+        Suspendisse viverra ligula vel diam egestas vestibulum. Aenean neque metus,
+        feugiat sed tempor vitae, viverra vitae enim. Mauris pretium dignissim libero in ultricies.
+        Quisque rutrum, magna non faucibus volutpat, turpis nibh pellentesque risus, et mattis risus sapien et diam.
+        Aliquam porta at velit sollicitudin tristique.
+        Integer aliquet, dolor sed imperdiet rhoncus, ex justo ornare mi, sit amet pretium leo sapien sagittis justo.
+        Mauris laoreet dui nisi, posuere rutrum libero semper ut. Morbi imperdiet luctus turpis tristique mollis.
+        Aenean at leo eget sapien semper aliquam.Morbi purus ex, iaculis vitae viverra sed, pellentesque nec lorem. In ornare porta molestie.
+        Sed dui nunc, ullamcorper non mollis id, ultrices et orci. Praesent lacinia, dolor sed iaculis volutpat,
+        ex nibh laoreet ex, nec dapibus nibh velit ornare nunc. Nam et odio dolor. Donec venenatis efficitur velit,
+        eu finibus tortor luctus eu. Morbi vel pulvinar magna.
+        Donec vitae tempor mi. Cras luctus libero vitae lobortis tincidunt.
+        Phasellus elit justo, pretium a justo et, consequat semper odio.
+        Suspendisse viverra ligula vel diam egestas vestibulum. Aenean neque metus,
+        feugiat sed tempor vitae, viverra vitae enim. Mauris pretium dignissim libero in ultricies.
+        Quisque rutrum, magna non faucibus volutpat, turpis nibh pellentesque risus, et mattis risus sapien et diam.
+        Aliquam porta at velit sollicitudin tristique.
+        Integer aliquet, dolor sed imperdiet rhoncus, ex justo ornare mi, sit amet pretium leo sapien sagittis justo.
+        Mauris laoreet dui nisi, posuere rutrum libero semper ut. Morbi imperdiet luctus turpis tristique mollis.
+        Aenean at leo eget sapien semper aliquam</string>
+</resources>
